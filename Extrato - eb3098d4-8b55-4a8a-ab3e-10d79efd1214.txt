@@ -1,0 +1,49 @@
+ID da conta: eb3098d4-8b55-4a8a-ab3e-10d79efd1214
+Banco: Santander
+Conta: 43811754-6
+Agência: 4009
+SALDO: R$ 1280.0
+[Data e hora da Operação = 2022-01-03 12:20:27 | Operador = Yuri | Tipo = DEPOSITO | Valor = R$ 80.0 ] 
+
+[Data e hora da Operação = 2022-01-04 12:24:42 | Operador = Murilo | Tipo = DEPOSITO | Valor = R$ 40.0 ] 
+
+[Data e hora da Operação = 2022-01-04 15:24:42 | Operador = Bryan | Tipo = DEPOSITO | Valor = R$ 420.0 ] 
+
+[Data e hora da Operação = 2022-01-04 15:24:42 | Operador = Emanuel | Tipo = DEPOSITO | Valor = R$ 20.0 ] 
+
+[Data e hora da Operação = 2022-01-07 13:55:53 | Operador = Francisco | Tipo = SAQUE | Valor = R$ 100.0 ] 
+
+[Data e hora da Operação = 2022-01-08 13:18:40 | Operador = Victor | Tipo = DEPOSITO | Valor = R$ 40.0 ] 
+
+[Data e hora da Operação = 2022-01-17 14:30:28 | Operador = Larissa | Tipo = DEPOSITO | Valor = R$ 300.0 ] 
+
+[Data e hora da Operação = 2022-01-20 12:43:47 | Operador = D�bora | Tipo = DEPOSITO | Valor = R$ 20.0 ] 
+
+[Data e hora da Operação = 2022-01-20 13:43:47 | Operador = Ingrid | Tipo = SAQUE | Valor = R$ 600.0 ] 
+
+[Data e hora da Operação = 2022-01-20 14:43:47 | Operador = Bryan | Tipo = DEPOSITO | Valor = R$ 100.0 ] 
+
+[Data e hora da Operação = 2022-01-20 15:12:24 | Operador = Ezequiel | Tipo = SAQUE | Valor = R$ 360.0 ] 
+
+[Data e hora da Operação = 2022-01-21 11:37:07 | Operador = Milene | Tipo = DEPOSITO | Valor = R$ 380.0 ] 
+
+[Data e hora da Operação = 2022-01-21 14:42:37 | Operador = Lorenzo | Tipo = DEPOSITO | Valor = R$ 440.0 ] 
+
+[Data e hora da Operação = 2022-01-25 11:22:43 | Operador = Catarina | Tipo = SAQUE | Valor = R$ 220.0 ] 
+
+[Data e hora da Operação = 2022-01-25 11:22:43 | Operador = Murilo | Tipo = DEPOSITO | Valor = R$ 400.0 ] 
+
+[Data e hora da Operação = 2022-01-25 13:22:43 | Operador = Francisco | Tipo = DEPOSITO | Valor = R$ 280.0 ] 
+
+[Data e hora da Operação = 2022-01-26 14:53:20 | Operador = Clarissa | Tipo = DEPOSITO | Valor = R$ 20.0 ] 
+
+[Data e hora da Operação = 2022-01-26 14:53:20 | Operador = Murilo | Tipo = SAQUE | Valor = R$ 60.0 ] 
+
+[Data e hora da Operação = 2022-01-28 11:34:24 | Operador = Brenda | Tipo = DEPOSITO | Valor = R$ 560.0 ] 
+
+[Data e hora da Operação = 2022-01-28 14:34:24 | Operador = Theo | Tipo = SAQUE | Valor = R$ 60.0 ] 
+
+[Data e hora da Operação = 2022-01-29 11:56:11 | Operador = David | Tipo = SAQUE | Valor = R$ 180.0 ] 
+
+[Data e hora da Operação = 2022-01-29 13:56:11 | Operador = Ant�nio | Tipo = SAQUE | Valor = R$ 240.0 ] 
+

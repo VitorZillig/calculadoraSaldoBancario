@@ -1,0 +1,47 @@
+ID da conta: 148972c2-7062-40c3-9b4d-e96b538a90dc
+Banco: Santander
+Conta: 37025102-7
+Agência: 2254
+SALDO: R$ -440.0
+[Data e hora da Operação = 2022-01-03 15:20:27 | Operador = Jade | Tipo = DEPOSITO | Valor = R$ 360.0 ] 
+
+[Data e hora da Operação = 2022-01-04 11:24:42 | Operador = �ngelo | Tipo = DEPOSITO | Valor = R$ 20.0 ] 
+
+[Data e hora da Operação = 2022-01-07 11:36:58 | Operador = Francisco | Tipo = SAQUE | Valor = R$ 520.0 ] 
+
+[Data e hora da Operação = 2022-01-07 13:36:58 | Operador = Mait� | Tipo = SAQUE | Valor = R$ 40.0 ] 
+
+[Data e hora da Operação = 2022-01-07 13:36:58 | Operador = Matheus | Tipo = DEPOSITO | Valor = R$ 40.0 ] 
+
+[Data e hora da Operação = 2022-01-07 14:36:58 | Operador = Bryan | Tipo = DEPOSITO | Valor = R$ 160.0 ] 
+
+[Data e hora da Operação = 2022-01-07 15:55:53 | Operador = Bryan | Tipo = DEPOSITO | Valor = R$ 100.0 ] 
+
+[Data e hora da Operação = 2022-01-07 15:55:53 | Operador = Francisco | Tipo = SAQUE | Valor = R$ 560.0 ] 
+
+[Data e hora da Operação = 2022-01-08 11:18:40 | Operador = Alexandre | Tipo = DEPOSITO | Valor = R$ 80.0 ] 
+
+[Data e hora da Operação = 2022-01-08 15:18:40 | Operador = Larissa | Tipo = SAQUE | Valor = R$ 40.0 ] 
+
+[Data e hora da Operação = 2022-01-17 12:30:28 | Operador = David | Tipo = DEPOSITO | Valor = R$ 60.0 ] 
+
+[Data e hora da Operação = 2022-01-17 13:30:28 | Operador = Frederico | Tipo = DEPOSITO | Valor = R$ 80.0 ] 
+
+[Data e hora da Operação = 2022-01-17 14:30:28 | Operador = Miguel | Tipo = DEPOSITO | Valor = R$ 60.0 ] 
+
+[Data e hora da Operação = 2022-01-17 15:30:28 | Operador = Ant�nio | Tipo = SAQUE | Valor = R$ 440.0 ] 
+
+[Data e hora da Operação = 2022-01-21 13:42:37 | Operador = Ezequiel | Tipo = DEPOSITO | Valor = R$ 60.0 ] 
+
+[Data e hora da Operação = 2022-01-21 15:37:07 | Operador = Fl�r | Tipo = SAQUE | Valor = R$ 540.0 ] 
+
+[Data e hora da Operação = 2022-01-23 11:32:28 | Operador = Matheus | Tipo = SAQUE | Valor = R$ 200.0 ] 
+
+[Data e hora da Operação = 2022-01-25 13:22:43 | Operador = Eduarda | Tipo = DEPOSITO | Valor = R$ 380.0 ] 
+
+[Data e hora da Operação = 2022-01-25 15:22:43 | Operador = Felipe | Tipo = DEPOSITO | Valor = R$ 540.0 ] 
+
+[Data e hora da Operação = 2022-01-28 12:34:24 | Operador = Clarissa | Tipo = DEPOSITO | Valor = R$ 180.0 ] 
+
+[Data e hora da Operação = 2022-01-29 13:56:11 | Operador = Juliano | Tipo = SAQUE | Valor = R$ 220.0 ] 
+
